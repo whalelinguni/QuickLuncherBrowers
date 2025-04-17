@@ -3,6 +3,8 @@
 **Topper** is a lightweight, keyboard-driven app/program launcher written in Python with `tkinter`.  
 It reads from a simple INI config, displays a frameless GUI list, supports tab/enter navigation, remembers your last selection, and launches your programs cleanly — even with fallback support if a path is missing.
 
+![screenshot](https://raw.githubusercontent.com/whalelinguni/QuickLuncherBrowers/main/THIS.png)
+
 ---
 
 ## 🔧 Features
