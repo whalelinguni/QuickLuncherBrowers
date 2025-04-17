@@ -44,7 +44,7 @@ Notepad = C:\Windows\System32\notepad.exe
 Ensure you have Python 3 installed, then:
 
 ```bash
-python topper.py
+python Lunchers.py
 ```
 
 You can also convert it to `.exe` using [PyInstaller](https://pyinstaller.org/) if you want to run it standalone.
